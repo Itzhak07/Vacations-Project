@@ -1,5 +1,5 @@
 # Vacations-Project
-SPA vactions app built with ReactJS and NodeJS.
+SPA built with ReactJS and NodeJS.
 
 Features:
 

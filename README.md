@@ -1,4 +1,4 @@
-# Vacations-Project
+# ObserVacation-John Bryce Project  #3
 SPA built with ReactJS and NodeJS.
 
 Features:

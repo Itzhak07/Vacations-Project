@@ -1,17 +1,17 @@
 # ObserVacation-John Bryce Project  #3
 SPA built with ReactJS and NodeJS.
 
-Features:
+## Features:
 
-MVC Architecture
-Modular structure, arranged by feature
+* MVC Architecture
+* Modular structure, arranged by feature
 
-Backend:
-Node.js + Express
-MySQL DB
-JWT for Auth
+## Backend:
+* Node.js + Express
+* MySQL DB
+* JWT for Auth
 
-Frontend:
-React.js
-State management with Redux + Thunk
-Material Design
+## Frontend:
+* React.js
+* Redux + Thunk
+* Material Design

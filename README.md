@@ -29,11 +29,11 @@ SPA built with ReactJS and NodeJS.
 ![](https://i.imgur.com/uac6VAE.jpg)
 
 ###### Vacations Page:
-here you can see all the vacations the site have to offer and like / unlike them.
+here you can see all the vacations the site has to offer and like / unlike them.
 ![](https://i.imgur.com/xcKhc2O.jpg)
 
 ## Admin:
-As admin, you have full CRUD control on the vacations presented in the site.
+As admin, you have full CRUD control on the vacations you offer.
 ![](https://i.imgur.com/MvsLHS9.jpg)
 
 ###### Add / Edit Vacation modals:
@@ -41,5 +41,5 @@ As admin, you have full CRUD control on the vacations presented in the site.
 ![Edit](https://i.imgur.com/08ckn9D.png)
 
 ###### Reports Page:
-As admin, you can see track the likes of every vacation package you offer.
+As admin, you can track the likes of every vacation package you offer.
 ![](https://i.imgur.com/1qnQx8D.jpg)

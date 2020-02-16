@@ -19,26 +19,27 @@ SPA built with ReactJS and NodeJS.
 ## User:
 
 ###### Home Page:
-![](https://imgur.com/WP2XStr)
+
+![](https://i.imgur.com/WP2XStr.jpg)
 
 ###### Log In Page:
-![](https://imgur.com/ZxpVs1M)
+![](https://i.imgur.com/ZxpVs1M.jpg)
 
 ###### Register Page:
-![](https://imgur.com/uac6VAE)
+![](https://i.imgur.com/uac6VAE.jpg)
 
 ###### Vacations Page:
 here you can see all the vacations the site have to offer and like / unlike them.
-![](https://imgur.com/xcKhc2O)
+![](https://i.imgur.com/xcKhc2O.jpg)
 
 ## Admin:
 As admin, you have full CRUD control on the vacations presented in the site.
-![](https://imgur.com/MvsLHS9)
+![](https://i.imgur.com/MvsLHS9.jpg)
 
 ###### Add / Edit Vacation modals:
-![](https://imgur.com/sqHWgvP)
-![](https://imgur.com/Yd1NsAc)
+![Add](https://i.imgur.com/sqHWgvP.jpg)
+![Edit](https://i.imgur.com/08ckn9D.png)
 
 ###### Reports Page:
 As admin, you can see track the likes of every vacation package you offer.
-![](https://imgur.com/1qnQx8D)
+![](https://i.imgur.com/1qnQx8D.jpg)
